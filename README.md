@@ -18,7 +18,7 @@
 
 ## 👾 Sobre mí · About me
 
-🇨🇴 Estudiante de **Ingeniería Multimedia** en la Universidad de San Buenaventura Cali. Me muevo entre el **desarrollo de software**, la **nube (AWS)**, los **agentes de IA** y el **modelado y animación 3D**. Me gusta construir cosas donde la tecnología y lo creativo se encuentran.
+Estudiante de **Ingeniería Multimedia** en la Universidad de San Buenaventura Cali. Me muevo entre el **desarrollo de software**, la **nube (AWS)**, los **agentes de IA** y el **modelado y animación 3D**. Me gusta construir cosas donde la tecnología y lo creativo se encuentran.
 
 🇺🇸 **Multimedia Engineering** student at Universidad de San Buenaventura Cali. I work across **software development**, **cloud (AWS)**, **AI agents** and **3D modeling & animation**. I love building things where technology meets creativity.
 
